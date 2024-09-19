@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cifza.github.io/Ysl/sitemap.Ysl.gz
